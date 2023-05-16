@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a software developer with over 10 years of work experience, more than 6 years spanning in mobile application development. I have developed apps for both iOS and Android devices. My apps have been downloaded over 500K with more than 50K active users.
+I am a software developer with over 10 years of work experience, more than 6 years spanning in mobile application development. I have developed apps for both iOS and Android devices. My apps have been downloaded over 500K times with more than 50K active users.
 
 I am passionate about creating apps that are both functional and visually appealing. I am always looking for new ways to improve my skills and learn new technologies.
 
