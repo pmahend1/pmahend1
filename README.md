@@ -12,7 +12,7 @@ In my spare time I like to learn new technologies and implement cool ideas.
 
 **Languages:** C#, Swift, Java, Python, TypeScript  
 **IDEs:** Visual Studio, XCode, Visual Studio Code, VSCodium  
-**Frameworks:** Xamarin Forms, .NET MAUI, SwiftUI, PowerShell
+**Frameworks:** Xamarin Forms, .NET MAUI, SwiftUI, PowerShell  
 **Design Patterns:** MVVM, VIPER, MVC  
 **Databases:** SQLite, Realm, SQL Server, Oracle, Firebase
 
