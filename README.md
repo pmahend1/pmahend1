@@ -9,13 +9,31 @@ I am passionate about creating apps that are both functional and visually appeal
 In my spare time I like to learn new technologies and implement cool ideas.
 
 ## Tech Stack
-|  |  |
-|--|--|
-| **Languages:** | C#, Swift, Java, Python, TypeScript |
-| **IDEs:** | Visual Studio, XCode, Visual Studio Code, VSCodium |
-| **Frameworks:** | Xamarin Forms, .NET MAUI, SwiftUI, PowerShell |
-| **Design Patterns:** | MVVM, VIPER, MVC |
-| **Databases:** | SQLite, Realm, SQL Server, Oracle, Firebase |
+<table>
+<tbody>
+<tr>
+<td><strong>Languages:</strong></td>
+<td>C#, Swift, Java, Python, TypeScript</td>
+</tr>
+<tr>
+<td><strong>IDEs:</strong></td>
+<td>Visual Studio, XCode, Visual Studio Code, VSCodium</td>
+</tr>
+<tr>
+<td><strong>Frameworks:</strong></td>
+<td>Xamarin Forms, .NET MAUI, SwiftUI, PowerShell</td>
+</tr>
+<tr>
+<td><strong>Design Patterns:</strong></td>
+<td>MVVM, VIPER, MVC</td>
+</tr>
+<tr>
+<td><strong>Databases:</strong></td>
+<td>SQLite, Realm, SQL Server, Oracle, Firebase</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Open Source Contribution Highlights
 
